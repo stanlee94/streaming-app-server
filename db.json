@@ -1,0 +1,58 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "Welcome to my stream",
+      "userId": "101519455965439905366",
+      "id": 1
+    },
+    {
+      "title": "Yours one",
+      "description": "I am deleting yours one",
+      "userId": "101519455965439905366",
+      "id": 2
+    },
+    {
+      "title": "New Stream",
+      "description": "JavaScript",
+      "userId": "114068183053513174287",
+      "id": 4
+    },
+    {
+      "title": "Stanlee",
+      "description": "Mok",
+      "userId": "114068183053513174287",
+      "id": 5
+    },
+    {
+      "title": "sdd",
+      "description": "sdsd",
+      "userId": "113035678302404190527",
+      "id": 6
+    },
+    {
+      "title": "a",
+      "description": "dd",
+      "userId": "114068183053513174287",
+      "id": 7
+    },
+    {
+      "title": "q",
+      "description": "e",
+      "userId": "114068183053513174287",
+      "id": 8
+    },
+    {
+      "title": "aa",
+      "description": "aaa",
+      "userId": "114068183053513174287",
+      "id": 9
+    },
+    {
+      "title": "aa",
+      "description": "d",
+      "userId": "114068183053513174287",
+      "id": 10
+    }
+  ]
+}
